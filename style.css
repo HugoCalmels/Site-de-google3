@@ -1,0 +1,52 @@
+
+
+.nav-links
+{
+    display : flex ;
+    justify-content: flex-end;
+    flex-direction: row ;
+    align-items: stretch;
+    float: right;
+    width: 300px;
+    border: 2px solid red;
+}
+
+#body
+{
+    display : flex ;
+    justify-content: center;
+    width: 800px;
+    border: 2px solid green;   
+}
+
+#search
+{
+border : none ;
+}
+
+icon-1 
+{
+    height : 1px ;
+    justify-self:  center ;
+}
+icon-2
+{
+    height : 1px ;
+    justify-self:  center ;
+}
+
+.searchbar
+{
+display : flex
+padding : 10px 15px ;
+border : 1px solid black ;
+border-radius : 10px ;
+}
+
+#plus
+{
+    display : flex ;
+    justify-content: center ;
+    margin-top: 10px;
+}
+
